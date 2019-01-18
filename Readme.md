@@ -1,6 +1,6 @@
 # the_idea
 
-The idea is to create a voice assisted PI, or maybe something like this. It will be kind of similar to alexa, but on laptop. 
+The idea is to create a voice assisted PI, or maybe something like this. It will be kind of similar to alexa, but on laptop, and customized, and a DIY. 
 
 # UPDATES
 
